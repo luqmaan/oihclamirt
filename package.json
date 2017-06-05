@@ -1,0 +1,17 @@
+{
+  "name": "oihclamirt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "querystring": "^0.2.0",
+    "xml2js": "^0.4.17"
+  }
+}

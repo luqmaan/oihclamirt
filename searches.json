@@ -1,0 +1,137 @@
+[
+  {
+    "keywords": ["kith", "ace"],
+    "exclude": ["infant", "lace"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["kith", "ultraboost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["pure control", "kith"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["purecontrol", "kith"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["pure control", "ultra boost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["tiro"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["purecontrol", "ultra boost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["pure control", "ultraboost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["purecontrol", "ultraboost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["kith", "ultra boost"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["nmd", "packer"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5]
+  },
+  {
+    "keywords": ["nmd", "consortium"],
+    "exclude": ["infant", "DO NOT ORDER", "horns"],
+    "sizes": [10, 9.5, 9, 10.5]
+  },
+  {
+    "keywords": ["ultraboost", "consortium"],
+    "exclude": ["infant", "DO NOT ORDER", "samba", "eqt", "day one"],
+    "sizes": [10, 9.5, 9, 10.5]
+  },
+  {
+    "keywords": ["ultra boost", "consortium"],
+    "exclude": ["infant", "DO NOT ORDER", "samba", "eqt", "day one", "ADIDAS CONSORTIUM X SNEAKER EXCHANGE X SNEAKERS N STUFF X SOCIAL STATUS ULTRA BOOST FTW WHITE/CORE BLACK BY2911"],
+    "sizes": [10, 9.5, 9, 10.5]
+  },
+  {
+    "keywords": ["ultraboost", "haven"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["ultra boost", "haven"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["ultra boost", "reigning champ"],
+    "exclude": ["infant", "S99321", "BQ1695", "S99310", "S99308", "BQ1698", "S99309", "B39255", "S99307", "B45334", "BR5566", "BB1835", "S99320"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["ultraboost", "reigning champ"],
+    "exclude": ["infant", "S99321", "BQ1695", "S99310", "S99308", "BQ1698", "S99309", "B39255", "S99307", "B45334", "BR5566", "BB1835", "S99320"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["yeezy", "boost"],
+    "exclude": ["infant", "BB1835", "4U203-113"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["melange"],
+    "exclude": ["HOODIE"],
+    "sizes": ["*"]
+  },
+  {
+    "keywords": ["yzy", "boost"],
+    "exclude": ["infant", "DO NOT ORDER", "4U203-113"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["nmd", "glitch"],
+    "exclude": ["infant",  "DO NOT ORDER", "mesh", "BB2884"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["nmd", "camo"],
+    "exclude": ["infant",  "DO NOT ORDER", "mesh", "duck", "BB2884", "BY1911", "linen", "BY1912", "White Ftw"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["datamosh"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["data mosh"],
+    "exclude": ["infant", "DO NOT ORDER"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["human", "race", "nmd"],
+    "exclude": ["infant", "shorts"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  },
+  {
+    "keywords": ["eqt", "overkill", "future"],
+    "exclude": ["infant"],
+    "sizes": [10, 9.5, 9, 10.5, "*"]
+  }
+]
