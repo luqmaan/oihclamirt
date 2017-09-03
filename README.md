@@ -1,3 +1,5 @@
+👉 Check out the next evolution of this script: [kickdb.com](https://kickdb.com) 👈
+
 # oihclamirt
 
 I started working on something similar to https://github.com/dzt/trimalchio. So I might as well share my progress.
