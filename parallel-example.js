@@ -28,11 +28,16 @@ function delay(ms) {
 
 async function scrapeSiteInfinitely(site) {
   console.log('Starting scraping site:', site);
+
   await meow(searches, site.oembed, site.atom, slackToken);
+
   console.log('Done scraping site:', site);
+
   const randomDelaySeconds = Math.max(3000, Math.random() * 15000);
   console.log(`Delaying for ${randomDelaySeconds / 1000} seconds`);
   await delay(randomDelaySeconds);
+
+  // Use recursion to repeat this function forever
   scrapeSiteInfinitely(site);
 }
 
